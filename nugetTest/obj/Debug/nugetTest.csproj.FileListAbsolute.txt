@@ -1,0 +1,7 @@
+c:\users\b4ux1\onedrive\documents\visual studio 2015\Projects\nugetTest\nugetTest\bin\Debug\nugetTest.exe.config
+c:\users\b4ux1\onedrive\documents\visual studio 2015\Projects\nugetTest\nugetTest\bin\Debug\nugetTest.exe
+c:\users\b4ux1\onedrive\documents\visual studio 2015\Projects\nugetTest\nugetTest\bin\Debug\nugetTest.pdb
+c:\users\b4ux1\onedrive\documents\visual studio 2015\Projects\nugetTest\nugetTest\bin\Debug\MySql.Data.dll
+c:\users\b4ux1\onedrive\documents\visual studio 2015\Projects\nugetTest\nugetTest\obj\Debug\nugetTest.csprojResolveAssemblyReference.cache
+c:\users\b4ux1\onedrive\documents\visual studio 2015\Projects\nugetTest\nugetTest\obj\Debug\nugetTest.exe
+c:\users\b4ux1\onedrive\documents\visual studio 2015\Projects\nugetTest\nugetTest\obj\Debug\nugetTest.pdb
